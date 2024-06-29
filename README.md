@@ -32,13 +32,13 @@ Aplicacion que permite realizar consultas de libros a una API y guardarlas en un
 
 - Si se selecciona la opción 4 se nos pide ingresar un año para mostrar luego los autores vivos en ese año.
 ![7 Elegir año para mostrar los autores vivos.jpg](7%20Elegir%20a%F1o%20para%20mostrar%20los%20autores%20vivos.jpg)
-
+- 
 - Se muestran los autores vivos en ese año ingresado.
 ![8 Mostrar autores vivos en un año.jpg](8%20Mostrar%20autores%20vivos%20en%20un%20a%F1o.jpg)
-
+- 
 - La aplicación mediante la opción 5 nos muestra un menú con diferentes opciones de idiomas.
 ![9 Menú de idiomas.jpg](9%20Men%FA%20de%20idiomas.jpg)
-
+- 
 - De acuerdo a que se seleccione se mostraran los diferentes libros guardados en la BD que fueron escritos en ese idioma.
 ![10 Muestra los libros en el idioma elegido.jpg](10%20Muestra%20los%20libros%20en%20el%20idioma%20elegido.jpg)
 
